@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @burako
-- 🌱 I’m currently learning typescript
+- 🌱 I’m currently learning typescript, node and angular
 - 📫 How to reach me ...
 
 <!---
