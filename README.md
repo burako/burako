@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @burako
+- 👋 Hi, I’m @burako, I am a solutions engineer who enjoys playing with APIs
 - 🌱 I’m currently learning typescript, node and angular
-- 📫 How to reach me ...
+- 📫 Feel free to connect with me on https://www.linkedin.com/in/burakokumus/
 
 <!---
 burako/burako is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
