@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @burako, I am a solutions engineer who enjoys playing with APIs
-- 🌱 I’m currently learning typescript, node and angular
+- 🌱 I’m currently building full stack web dev skills using node, express and angular
 - 📫 Feel free to connect/contact with me on LinkedIn -> https://www.linkedin.com/in/burakokumus/
 - 📗 Check out my blog -> http://burakokumus.com
 
